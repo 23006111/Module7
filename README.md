@@ -48,8 +48,10 @@ int main() {
     return 0;
 }
 ~~~
+
 # Output:
 <img width="708" height="217" alt="image" src="https://github.com/user-attachments/assets/dab52898-1ad4-4bf2-8f7b-c438385f615c" />
+
 # Result: 
   Thus, the program is verified successfully.
 
@@ -150,6 +152,7 @@ int main() {
 ~~~
 # Output:
 <img width="440" height="98" alt="image" src="https://github.com/user-attachments/assets/1b135079-0cee-46b1-bfe9-6f1d5c38abb7" />
+
 # Result:
  Thus, the program is verified successfully.
 
@@ -211,6 +214,7 @@ int main() {
 ~~~
 # Output:
 <img width="474" height="157" alt="image" src="https://github.com/user-attachments/assets/ba9ff5dd-2c05-4ae1-9913-d196a3ff6f75" />
+
 # Result:
 Thus, the program is verified successfully.
 
